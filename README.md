@@ -1,4 +1,4 @@
-# breakpoints
+# Break-points
 Projeto criado com a finalidade de uso da função break caso seja escolhido um valor configurado.
 
-Utilizado compiler G++ para a sua execução.
+Utilizado compiler g++ para a sua execução.
