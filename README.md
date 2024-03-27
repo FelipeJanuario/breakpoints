@@ -3,6 +3,9 @@
 ![image](https://github.com/FelipeJanuario/breakpoints/assets/96888435/76b5cada-8563-418b-8b3d-bb6c7f6166fe)
 
 
+![image](https://github.com/FelipeJanuario/breakpoints/assets/96888435/95d379a1-cc14-407f-869f-ce22a3850c71)
+
+
 
 Projeto criado com a finalidade do uso da função break caso seja escolhido um valor configurado.
 
