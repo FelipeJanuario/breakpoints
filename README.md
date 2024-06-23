@@ -1,5 +1,7 @@
 # Break-Points
 
+Projeto desenvolvido em C++, utilizando o debuger do VSCode. Pelo terminal de operações do VSCode, é apresentado as opções para escolha. Caso seja escolhido uma função, específica ele retorna uma resposta. Adequa-se a sistemas embarcados, caso seja necessário tomar uma linha de ação para cada opção selecionada.
+
 ![image](https://github.com/FelipeJanuario/breakpoints/assets/96888435/76b5cada-8563-418b-8b3d-bb6c7f6166fe)
 
 
